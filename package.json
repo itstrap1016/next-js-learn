@@ -11,7 +11,10 @@
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@prisma/client": "^6.13.0",
+    "@types/bcrypt": "^6.0.0",
+    "bcrypt": "^6.0.0",
     "heroicons": "^2.2.0",
+    "iron-session": "^8.0.4",
     "next": "15.4.6",
     "prisma": "^6.13.0",
     "react": "19.1.0",
